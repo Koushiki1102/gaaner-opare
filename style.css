@@ -1,0 +1,20 @@
+
+body {
+  background-color: RosyBrown;
+  color:RosyBrown;
+}
+h1 {
+  color:  Ivory;
+  font-family: Nanum Myeongjo;
+  text-align: center;
+}
+p { color: Ivory;
+font-weight: 500;
+text-align: center;
+}
+h4 {
+  color: Sienna;
+  font-weight: 700;
+  text-align: center;
+}
+  

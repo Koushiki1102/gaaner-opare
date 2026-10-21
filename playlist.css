@@ -1,0 +1,48 @@
+body{
+        background-color: RosyBrown;
+      }
+      h3{
+        text-align: center;
+        color: Ivory;
+      }
+      h1{
+        text-align: center;
+        color: Ivory;
+        }
+    
+.song-line {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            padding: 25px;
+            margin-bottom: 12px;
+            background-color: Ivory;
+            color: RosyBrown;
+            border-radius: 8px;
+        }
+
+        .song-line span {
+            font-size: 20px;
+        }
+
+        .play-btn {
+            background-color: RosyBrown;
+            color: Ivory;
+            border: none;
+            padding: 9px 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .play-btn:hover {
+            background-color: Ivory;
+            color: RosyBrown;
+            }
+
+        #musicPlayer {
+            width: 100%;
+        }
+        
+      
